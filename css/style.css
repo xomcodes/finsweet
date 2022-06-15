@@ -503,16 +503,32 @@ padding: 20px;
 
 #fq-section .fq-genbox .fq-box .fq-click{
     background: #FF6433;
-    width: 51.08px;
+    width: 48px;
     height: 48px;
+    color: #FFFFFF;
+    font-weight: 800;
+    cursor: pointer;
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+/* #fq-section .fq-genbox .fq-box .fq-click h1{
+    text-align: center;
+ 
+} */
+
 
 .fq-box .top-section{
 display: flex;
-font-weight: 600;
-font-size: 24px;
+justify-content: space-between;
 }
 
+.fq-box .top-section h4{
+    font-weight: 600;
+    font-size: 24px;
+}
 
 
  
