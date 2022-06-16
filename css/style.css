@@ -583,12 +583,92 @@ justify-content: space-between;
    
 }
 
+#footer-section .left-footer{
+    width: 45%;
+}
+
+#footer-section .left-footer h1{
+    font-weight:700;
+    font-size:48px;
+  color: #FFFFFF;
+  margin-bottom: 30px;
+}
+
+#footer-section .left-footer .img-left{
+   display:flex;
+   width: 40%;
+    justify-content: space-between;
+    
+}
+
+#footer-section .right-footer{
+    width: 45%; 
+     margin-left: 70px;
+}
+
+#footer-section .right-footer h3{
+    font-weight: 600;
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-bottom: 35px;
+}
+
+#footer-section .right-footer h4{
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-bottom: 7px;
+   
+}
+
+.main-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 5px;
+
+    
+}
+
+.right-fsection{
+    display: flex;
+    align-items: center;
+   
+}
+
+.right-fsection ul{
+    list-style:none;
+    display: flex;
+}
+
+.right-fsection ul li{
+    margin-right: 20px;
+}
+
+.right-fsection ul li a {
+    text-decoration:none;
+    color:#FFFFFF
+}
+
+#main-footer-section{
+    background: black;
+    color: #FFFFFF;
+}
 
 
 
+/* .road-assistant{
+    display: flex;
+    padding-left: 20px;
+} */
+
+/* .right-fsection .navigation{
+  /* margin-right: 80px; }*/
 
 
-
+/* .road-assistant .icon{
+    margin-right: 10px;
+} */
 
 
 
