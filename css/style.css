@@ -682,17 +682,38 @@ justify-content: space-between;
 
     .right-section{
         flex-direction: column; 
-        align-items: flex-start;  
+        align-items: flex-start; 
+        width: 100%; 
+        display: none;
 
     }
 
 
     .right-section .navigation{
        border: none;
+       width:100%
     }
 
 
     .right-section .navigation ul{
         flex-direction: column;
     }
+
+    .right-section ul li {
+        padding: 10px 0;
+        margin-right: 0;
+    }
+
+    .righr-section ul li a {
+        display: block
+    }
+
+    .road-assistant {
+        padding: 10px 0;
+    }
+
+    .flex-sm-colume{
+     flex-direction: column;
+    }
+
 }
