@@ -712,8 +712,16 @@ justify-content: space-between;
         padding: 10px 0;
     }
 
-    .flex-sm-colume{
+    .flex-sm-column{
      flex-direction: column;
+    }
+
+    #hero-section .text-section, #hero-section .image-section {
+        width: 100%;
+    }
+
+    .text-section h1 {
+        font-size: 35px;
     }
 
 }
