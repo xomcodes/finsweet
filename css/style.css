@@ -673,10 +673,26 @@ justify-content: space-between;
 
 
 /* mobile view */
-@media(max-width:426){
-    header{
-        display:none
+@media (max-width:426px){
+    .main-header{
+        flex-direction: column;
+        align-items: flex-start;
+     
+    }
+
+    .right-section{
+        flex-direction: column; 
+        align-items: flex-start;  
+
     }
 
 
+    .right-section .navigation{
+       border: none;
+    }
+
+
+    .right-section .navigation ul{
+        flex-direction: column;
+    }
 }
