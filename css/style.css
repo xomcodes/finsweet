@@ -776,5 +776,16 @@ justify-content: space-between;
     #offers-section .offers .offers-box {
         width: 100%;
     }
+
+    #tools-section {
+flex-direction: column;
+    }
+
+    #tools-section .car-section,   #tools-section .orange-section, #tools-section .plier-section  {
+      width:100%  
+    }
+
+    
+
     
 }
