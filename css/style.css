@@ -6,9 +6,7 @@
 
 .container{
     width: 80%;
-    /* border: 1px solid black; */
     margin: 0 auto;
-    /* padding: 20px 50px; */
 
 }
 
@@ -369,7 +367,6 @@ width:50%
 
 
  #review-section .reviews .reviews-box{
-    /* display: flex; */
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -445,7 +442,7 @@ margin-bottom:50px;
     background: #FFFFFF;
     width: 45%;
     height: 200px;
-    /* margin-right: 11%; */
+   
    
 }
 
@@ -473,7 +470,7 @@ font-size: 16px;
     margin-top: 15px;
     margin-right: 30px;
     margin-left:45px;
-    /* width: 55%; */
+  
 }
 
 #customer-section .customer .left-customer-box .customer-div, #customer-section .customer .right-customer-box .customer-div{
@@ -509,8 +506,6 @@ color: #FF6433;
     height: 8%;
     margin: 0px auto;
     cursor: pointer;
-    /* justify-content:flex-end; */
-    /* justify-content: space-between; */
 }
 
 
@@ -547,16 +542,11 @@ margin-bottom: 15px ;
     color: #FFFFFF;
     font-weight: 800;
     cursor: pointer;
-    /* text-align: center; */
     display: flex;
     justify-content: center;
      align-items: center; 
 }
 
-/* #fq-section .fq-genbox .fq-box .fq-click h1{
-    text-align: center;
- 
-} */
 
 
 .fq-box .top-section{
@@ -657,19 +647,6 @@ justify-content: space-between;
 }
 
 
-
-/* .road-assistant{
-    display: flex;
-    padding-left: 20px;
-} */
-
-/* .right-fsection .navigation{
-  /* margin-right: 80px; }*/
-
-
-/* .road-assistant .icon{
-    margin-right: 10px;
-} */
 
 
 
@@ -793,20 +770,19 @@ flex-direction: column;
     #customer-section .customer .left-customer-box, #customer-section .customer .right-customer-box {
         width: 100%;
         margin-bottom: 30px;
-        height: 300px
+        height: 300px;
+        align-items: center;
     }
 
     #customer-section .customer .right-customer-box {
         margin-top: 10px;
     }
 
-    #customer-section .customer{
-        align-items: center;
-        /* margin-right: 11px; */
-    }
+   
 
     #customer-section .customer .left-customer-box{
         margin-bottom: 15px;
+        margin-left: 0px;
     }
 
     #customer-section h1 {
@@ -844,9 +820,6 @@ flex-direction: column;
     margin-top: 15px;
 }
 
-/* .lines-div {
-margin-top: 15px;
-} */
  .reviews{
     align-items: center;
     text-align: center;   
