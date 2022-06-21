@@ -792,7 +792,8 @@ flex-direction: column;
 
     #customer-section .customer .left-customer-box, #customer-section .customer .right-customer-box {
         width: 100%;
-        margin-bottom: 15px;
+        margin-bottom: 30px;
+        /* padding-bottom: 20%; */
     }
 /* 
     #customer-section .customer .right-customer-box {
@@ -840,8 +841,7 @@ flex-direction: column;
 /* .lines-div {
 margin-top: 15px;
 } */
-
-#review-section .reviews{
+ .reviews{
     align-items: center;
     text-align: center;   
 }
