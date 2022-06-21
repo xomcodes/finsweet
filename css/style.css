@@ -793,20 +793,20 @@ flex-direction: column;
     #customer-section .customer .left-customer-box, #customer-section .customer .right-customer-box {
         width: 100%;
         margin-bottom: 30px;
-        /* padding-bottom: 20%; */
+        padding-bottom: 20%;
     }
-/* 
+
     #customer-section .customer .right-customer-box {
         margin-top: 10px;
-    } */
+    }
 
     #customer-section .customer{
         align-items: center;
     }
 
-    /* #customer-section .customer .left-customer-box{
+    #customer-section .customer .left-customer-box{
         margin-bottom: 15px;
-    } */
+    }
 
 
 
