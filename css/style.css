@@ -785,8 +785,8 @@ flex-direction: column;
       width:100%  
     }
 
-    #review-section{
-   text-align: center;
+    #brand-section .brand .brand-box {
+        width: 100%;
     }
 
     
