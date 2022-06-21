@@ -789,5 +789,12 @@ flex-direction: column;
         width: 100%;
     }
 
-    
+    #customer-section .customer .left-customer-box, #customer-section .customer .right-customer-box {
+        width: 100%;
+    }
+
+    #customer-section .customer .right-customer-box {
+        margin-top: 10px;
+    }
+
 }
