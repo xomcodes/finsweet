@@ -793,6 +793,7 @@ flex-direction: column;
     #customer-section .customer .left-customer-box, #customer-section .customer .right-customer-box {
         width: 100%;
         margin-bottom: 30px;
+        height: 250px
     }
 
     #customer-section .customer .right-customer-box {
@@ -801,17 +802,17 @@ flex-direction: column;
 
     #customer-section .customer{
         align-items: center;
-        margin-right: 11px;
+        /* margin-right: 11px; */
     }
 
     #customer-section .customer .left-customer-box{
         margin-bottom: 15px;
     }
 
+    #customer-section h1 {
+        font-size: 40px;
+    }
 
-
-    #customer-section .customer .left-customer-box .customer-div, #customer-section .customer .right-customer-box .customer-div {
-padding: 0px;
 
     }
     #fq-section .fq-genbox {
