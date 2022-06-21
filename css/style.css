@@ -793,7 +793,7 @@ flex-direction: column;
     #customer-section .customer .left-customer-box, #customer-section .customer .right-customer-box {
         width: 100%;
         margin-bottom: 30px;
-        height: 250px
+        height: 300px
     }
 
     #customer-section .customer .right-customer-box {
@@ -814,7 +814,7 @@ flex-direction: column;
     }
 
 
-    }
+    
     #fq-section .fq-genbox {
    width: 100%;
     }
@@ -856,4 +856,5 @@ margin-top: 15px;
     margin-bottom: 20px;
 
 }
+
 }
