@@ -371,6 +371,7 @@ width:50%
     align-items: center;
     text-align: center;
     width: 50%;
+   
     
    
  }
@@ -381,10 +382,14 @@ width:50%
     /* color: #661CE7; */
     position: absolute;
     width: 128px;
-    
+
  }
  .reviews-box h1{
     color: #661CE7; 
+ }
+
+ .reviews-box{
+     margin-bottom: 15px;
  }
 
 
