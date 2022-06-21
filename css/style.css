@@ -378,11 +378,17 @@ width:50%
  #review-section .reviews .reviews-box h1{
     font-weight: 800;
     font-size: 58px;
-    color: #661CE7;
+    /* color: #661CE7; */
     position: absolute;
     width: 128px;
     
  }
+ .reviews-box h1{
+    color: #661CE7; 
+ }
+
+
+
 
  #review-section .reviews .reviews-box p{
     position: absolute;
