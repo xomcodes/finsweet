@@ -793,7 +793,6 @@ flex-direction: column;
     #customer-section .customer .left-customer-box, #customer-section .customer .right-customer-box {
         width: 100%;
         margin-bottom: 30px;
-        padding-bottom: 20%;
     }
 
     #customer-section .customer .right-customer-box {
@@ -802,6 +801,7 @@ flex-direction: column;
 
     #customer-section .customer{
         align-items: center;
+        margin-right: 11px;
     }
 
     #customer-section .customer .left-customer-box{
