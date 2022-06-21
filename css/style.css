@@ -809,6 +809,11 @@ flex-direction: column;
     } */
 
 
+
+    #customer-section .customer .left-customer-box .customer-div, #customer-section .customer .right-customer-box .customer-div {
+padding: 0px;
+
+    }
     #fq-section .fq-genbox {
    width: 100%;
     }
@@ -847,7 +852,7 @@ margin-top: 15px;
 }
 
 #review-section .reviews .reviews-box{ 
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 
 }
 }
