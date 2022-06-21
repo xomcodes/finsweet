@@ -796,6 +796,11 @@ flex-direction: column;
     #customer-section .customer .right-customer-box {
         margin-top: 10px;
     }
+
+    #customer-section .customer{
+        align-items: center;
+    }
+
     #fq-section .fq-genbox {
    width: 100%;
     }
