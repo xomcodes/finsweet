@@ -791,7 +791,7 @@ flex-direction: column;
 
     #customer-section .customer .left-customer-box, #customer-section .customer .right-customer-box {
         width: 100%;
-        margin-bottom: 15px;
+        /* margin-bottom: 15px; */
     }
 /* 
     #customer-section .customer .right-customer-box {
@@ -830,4 +830,13 @@ flex-direction: column;
         padding: 10px 0;
     }
 
+    .arrow-div {
+    height: 50%;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.lines-div {
+margin-top: 15px;
+}
 }
