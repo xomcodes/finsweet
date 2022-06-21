@@ -800,4 +800,21 @@ flex-direction: column;
    width: 100%;
     }
 
+    .main-header{
+        /* flex-direction: column; */
+        align-items: flex-start;
+     
+    }
+
+    .right-fsection{
+        flex-direction: column; 
+        align-items: flex-start; 
+        width: 100%; 
+        display: none;
+
+    }
+    .copy-section {
+        padding: 10px 0;
+    }
+
 }
