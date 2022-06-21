@@ -444,7 +444,7 @@ margin-bottom:50px;
     background: #FFFFFF;
     width: 45%;
     height: 200px;
-    margin-right: 11%;
+    /* margin-right: 11%; */
    
 }
 
@@ -791,15 +791,21 @@ flex-direction: column;
 
     #customer-section .customer .left-customer-box, #customer-section .customer .right-customer-box {
         width: 100%;
+        margin-bottom: 15px;
     }
-
+/* 
     #customer-section .customer .right-customer-box {
         margin-top: 10px;
-    }
+    } */
 
     #customer-section .customer{
         align-items: center;
     }
+
+    /* #customer-section .customer .left-customer-box{
+        margin-bottom: 15px;
+    } */
+
 
     #fq-section .fq-genbox {
    width: 100%;
