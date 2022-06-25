@@ -67,3 +67,13 @@ margin: 0px auto;
     padding: 80px 0;
  }
  
+ #auto-section .auto .left-auto{
+   background: #FFff;
+   width: 50%;
+ }
+
+ #auto-section .img-auto{
+   width:30%;
+   background-size: cover;
+   background-image: url(../img/auto-img.png);
+ }
