@@ -70,10 +70,33 @@ margin: 0px auto;
  #auto-section .auto .left-auto{
    background: #FFff;
    width: 50%;
+   /* min-height: 70vh; */
+   padding-top: 10px;
+   padding-bottom: 50px;
+
+   
  }
 
  #auto-section .img-auto{
-   width:30%;
+   width:80%;
    background-size: cover;
    background-image: url(../img/auto-img.png);
- }
+   min-height: 50vh;
+   margin: 30px auto; 
+}
+
+#auto-section .text-auto h4{
+   font-weight: 700;
+   font-size: 30px;
+   margin-left: 40px;
+}
+
+#auto-section .text-auto h6{
+   /* font-weight: 600; */
+font-size: 18px;
+margin-left: 40px;
+margin-top: 10px;
+width:80%; ;
+color: #232536;
+opacity: 0.6;
+}
