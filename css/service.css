@@ -100,3 +100,18 @@ width:80%; ;
 color: #232536;
 opacity: 0.6;
 }
+
+.service-arrow{
+display: flex;
+justify-content: flex-end;
+}
+
+.service-arrow a{
+  display: flex ;
+  text-decoration: none;
+  color:black
+}
+
+.service-arrow p{
+   margin-right: 10px;
+}
